@@ -233,13 +233,13 @@
     </p>
 
     <p>
-      Some people, mainly those in Team Rocket, will use Pokémon to battle other than sport.
+      Some people, mainly those in Team Rocket, will use Pokémon to battle other than for sport.
       They will use their Pokémons' abilities to commit crimes such as hijacking a radio
       station or commandeering a cruise ship.
 
       <figure xml:id="teamrocket">
         <caption>Team Rocket members</caption>
-        <image source="images/TeamRocket.jpg" width="50%">
+        <image source="images/TeamRocket.png" width="50%">
           <shortdescription>Team Rocket members</shortdescription>
         </image>
       </figure>
@@ -264,7 +264,7 @@
     <p>
       Despite theories of natural selection, evolution happens in a much different way.  
       When a Pokémon grows old enough and becomes strong enough through battling, it
-      can evolve into a different species instantly.  For example, when a Weedle become strong
+      can evolve into a different species instantly.  For example, when a Weedle becomes strong
       enough, it will evolve into a Kakuna.  When a Kakuna becomes strong enough, it will
       evolve into a Beedrill.  So far, we have not seen a Beedrill evolve into anything 
       stronger.
