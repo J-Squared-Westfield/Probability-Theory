@@ -86,10 +86,10 @@
     <p>
       However, there is a catch.  (Get it?)  Just because you throw a ball at a Pokémon,
       the catch may or may not be successful.  Think of it like a fish, such as 
-      Magikarp or Goldeen nibbling on a hook.  They may or may not get set on the hook and
+      Magikarp or Goldeen, nibbling on a hook.  They may or may not get set on the hook and
       able to be reeled in.  The likelihood of your catch being successful depends on a number
       of factors such as the toughness of the Pokémon or their current health or the type
-      of Pokémon that you use.  If you have a successful catch, the Pokémon and the Pokéball
+      of Pokéball that you use.  If you have a successful catch, the Pokémon and the Pokéball
       used are connected, and that Pokémon is yours until you decide to release it.
 
       <figure xml:id="fig-catching">
@@ -136,7 +136,7 @@
 
       <figure>
       <caption>Pokémon trainer challenge</caption>
-      <image source="images/Battle1.png" width="50%">
+      <image source="images/Battle1.jpg" width="50%">
         <shortdescription>Battle Begins</shortdescription>
       </image>
       </figure>
