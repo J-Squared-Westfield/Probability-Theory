@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-title" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Fundamentals</title>
+
+  <introduction>
+    <p>
+      Welcome to the wonderful world of probable Pokémon!
+    </p>
+
+    <p>
+      Throughout this course, we will explore the fundamentals and applications of
+      calculus-based probability.  With the help of our Pokémon pals, we probably delve into
+      the very-real applications of probability to Pokémon collecting and battles.  With an
+      abstract lens, we will also have a firm foundation that will allow us to visualize how
+      probability lies as a modeler of future events.
+    </p>
+
+    <p>
+      This course will challenge and enhance both your computational and logical skills.
+      You will be asking why.  You will be answering because.  You will showing that things
+      always work or may not always work.  You will be connecting fundamentals of probability
+      to algebra, calculus, discrete mathematics, and real analysis.  And, of course, you
+      will be finding probabilities.
+    </p>    
+      
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-1-1.ptx" />
+
+</chapter>

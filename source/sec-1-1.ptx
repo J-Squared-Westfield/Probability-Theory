@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-World-of-Pokemon" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The World of Pokémon</title>
+
+  <p>
+    We live together with our friends and partners of the world - the Pokémon.
+    In case your elementary school did not give you a proper education regarding these
+    wonderful creatures, we will review the basics of our world.
+  </p>
+
+  <subsection xml:id="subsec-Pokemon">
+    <title>Pokémon</title>
+    
+    <p>
+      Our world is filled with creatures called Pokémon ("pocket monsters").  There are 151
+      of Pokémon in our region of Kanto, but some theorize that there may be other undiscovered
+      species out there in other areas of the world.  
+
+      <figure xml:id="fig-pokemon-ex">
+      <sidebyside widths="45% 45%" valign="middle">
+        <figure xml:id="fig-poke-1">
+          <caption>Kangaskhan</caption>
+          <image source="images/Kangaskhan.png">
+            <shortdescription>Kangaskhan</shortdescription>
+          </image>
+        </figure>
+        <figure xml:id="fig-poke-2">
+          <caption>Magikarp</caption>
+          <image source="images/Magikarp.png">
+            <shortdescription>Margikarp</shortdescription>
+          </image>
+        </figure>
+      </sidebyside>
+      </figure>
+    </p>
+
+    <p>
+      Pokémon are highly intelligent.  They can fully understand human speech although they
+      communicate only by saying their species name in various tones.  All Pokémon in a species
+      are very similar in appearance, and most people cannot distinguish one from another.
+    </p>
+
+    <p>
+      Pokémon personalities vary greatly, and their role in our world is just as diverse.
+      Most Pokémon live in the wild.  Some families have domesticated Pokémon in their homes.
+      Some Pokémon even help us do our jobs.  For example, Chanseys frequently help our our
+      Pokémon physicians and nurses in the Pokécenters.
+      Some people even participate with Pokémon in our only sport - Pokémon battles.
+    </p>
+
+    <p>
+      Many Pokémon have wondrous abilities.  Some can breath fire.  Some can generate
+      electricity.  Some have the strength to move mountains.  
+      Some have telekinetic abilities.  Some, like Magikarp, just flop
+      around. 
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-Pokemon-Catching">
+    <title>Pokémon-Catching</title>
+    
+    <p>
+      Pokémon that do not live in the wild and become domesticated need to first be "caught."
+      Catching Pokémon is simple.  All you need to do is throw a Pokéball at it.
+      <figure xml:id="appeared">
+        <caption>A wild Pokémon appearing</caption>
+        <image source="images/Appeared.jpg" width="50%">
+          <shortdescription>A wild Pokémon appearing</shortdescription>
+        </image>
+      </figure>
+    </p>
+
+    <p>
+      Pokéballs are wonders of technology developed by Professor Oak.  These balls can house
+      a Pokémon inside of it in a state of pure energy.  People can store and carry Pokémon
+      wherever they go.
+      <figure xml:id="pokeball">
+        <caption>A Pokéball</caption>
+        <image source="images/pokeball.jpg" width="50%">
+          <shortdescription>A Pokéball</shortdescription>
+        </image>
+      </figure>
+    </p>
+
+    <p>
+      However, there is a catch.  (Get it?)  Just because you throw a ball at a Pokémon,
+      the catch may or may not be successful.  Think of it like a fish, such as 
+      Magikarp or Goldeen nibbling on a hook.  They may or may not get set on the hook and
+      able to be reeled in.  The likelihood of your catch being successful depends on a number
+      of factors such as the toughness of the Pokémon or their current health or the type
+      of Pokémon that you use.  If you have a successful catch, the Pokémon and the Pokéball
+      used are connected, and that Pokémon is yours until you decide to release it.
+
+      <figure xml:id="fig-catching">
+      <sidebyside widths="45% 45%" valign="middle">
+        <figure xml:id="fig-catch-fail">
+          <caption>Pokémon catch failure</caption>
+          <image source="images/BrokeFree.jpg">
+            <shortdescription>A Pokémon breaking free</shortdescription>
+          </image>
+        </figure>
+        <figure xml:id="fig-catch-success">
+          <caption>Pokémon catch success</caption>
+          <image source="images/Caught.png">
+            <shortdescription>A Pokémon successfully being caught</shortdescription>
+          </image>
+        </figure>
+      </sidebyside>
+      </figure>
+    </p>
+
+    <p>
+      Most Pokémon experts agree that if you treat your caught Pokémon with love and respect
+      that they love their lives as domesticated Pokémon.  However, there are those out there, 
+      such as Team Rocket, that see their caught Pokémon as tools.  Those Pokémon can develop
+      similar selfish sentiments as their owners.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-Pokemon-Collecting">
+    <title>Pokémon-Collecting</title>
+    <p>
+      Many people try to collect Pokémon.  In particular, many try to catch as many Pokémon
+      species as possible.  They live by the code, "Gotta catch 'em all!"
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-Pokemon-Battling">
+    <title>Pokémon Battling</title>
+    <p>
+      Our only sport in the world is Pokémon battling.  In a battle, Pokémon fight one-on-one
+      using their various abilities.  A Pokémon will battle until it becomes exhausted and
+      faints.  Usually, a battle consists of teams Pokémon.  A battle is over once all Pokémon
+      on a team have fainted.
+
+      <figure>
+      <caption>Pokémon trainer challenge</caption>
+      <image source="images/Battle1.png" width="50%">
+        <shortdescription>Battle Begins</shortdescription>
+      </image>
+      </figure>
+    </p>
+
+    <p>
+      Most experts agree that Pokémon like battling.  They share the competitive nature of
+      their trainers and like to vie for victory.
+    </p>
+
+    <p>
+      Humans act as trainers to Pokémon.  They help their Pokémon become stronger to compete
+      better in battles.  Trainers travel the world, wanting to be the best Pokémon
+      trainer - the best there ever was.
+
+      <figure xml:id="pokemon-trainer-img">
+        <caption>Pokémon Trainer</caption>
+      <image source="images/Trainer.jpg" width="50%">
+        <shortdescription>Pokémon Trainer</shortdescription>
+      </image>
+      </figure>
+    </p>
+
+    <p>
+      Pokémon battling is a regulated sport with rules.  
+    </p>
+    
+    <p>
+      <ul>
+        <li>
+          <p>
+            One of the most important rules is
+            that a team can have at most six Pokémon on it.  Some trainers choose to have fewer
+            than six on their team, for some reason, but it is allowed.
+          </p>
+        </li>
+
+        <li>
+          <p>
+            When Pokémon battle, they take turns with whatever maneuver their trainer has
+            instructed them to do.  For example, Trainer A may instruct their Pokémon to use
+            the Fury Swipes move, which it will do.  Then Trainer B may instruct their 
+            Pokémon to use the Rain Dance move.  Then Trainer A may instruct their Pokémon to
+            use another move.  This goes on until one Pokémon faints.
+
+            <figure>
+              <caption>Pokémon taking a turn</caption>
+            <image source="images/Battle2.jpg" width="50%">
+              <shortdescription>Pokémon taking a turn.</shortdescription>
+            </image>
+            </figure>
+          </p>
+        </li>
+
+        <li>
+          <p>
+            When a battle is over, the losing trainer must give the winner a portion of the
+            any cash they are carrying.
+          </p>
+        </li>
+
+        <li>
+          <p>
+            Eight trainers have so much experience and earned such a reputation as trainer 
+            that they lead their own Pokémon gym.  Trainers may challenge these gym leaders
+            whenever they wish.  Winning a battle against a gym leader is a mark of great
+            honor for a trainer and his Pokémon partners.  They are awarded a badge for 
+            winning a against a gym leader.
+          </p>
+        </li>
+
+        <li>
+          <p>
+            Four individuals have such regional renown that they have formed as a group of 
+            the nearly un-defeatable "Elite Four."  If a trainer were defeat all members of
+            the Elite Four in battles, they are dubbed the Champion and are a Pokémon Master.
+
+            <figure xml:id="weedle-evolution">
+              <caption>The Elite Four</caption>
+            <image source="images/Elite.png" width="50%">
+              <shortdescription>Elite Four</shortdescription>
+            </image>
+            </figure>
+          </p>
+        </li>
+
+        <li>
+          <p>
+            There are no age restrictions to participate as a trainer.  In fact, many ten-year-olds
+            travel the world alone with their Pokémon pals as trainers.
+          </p>
+        </li>
+      </ul>
+    </p>
+
+    <p>
+      Some people, mainly those in Team Rocket, will use Pokémon to battle other than sport.
+      They will use their Pokémons' abilities to commit crimes such as hijacking a radio
+      station or commandeering a cruise ship.
+
+      <figure xml:id="teamrocket">
+        <caption>Team Rocket members</caption>
+        <image source="images/TeamRocket.jpg" width="50%">
+          <shortdescription>Team Rocket members</shortdescription>
+        </image>
+      </figure>
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-Pokemon-Evolution">
+    <title>Pokémon Growth and Evolution</title>
+
+    <p>
+      Pokémon grow stronger through battle.
+    </p>
+
+    <p>
+      Every Pokémon has statistics or "stats" that are measurements of its health and
+      battling abilities.  For example, health points (or HP) measure a Pokémon's health,
+      which decreases as it battles.  It will faint if it's HP becomes 0.  A Pokémon's
+      Special Attack (or Sp. Att.) determines how powerful it's ability-based attacks are
+      in battle.  The higher the number, the more it can decrease its opponent's HP in a turn.
+    </p>
+
+    <p>
+      Despite theories of natural selection, evolution happens in a much different way.  
+      When a Pokémon grows old enough and becomes strong enough through battling, it
+      can evolve into a different species instantly.  For example, when a Weedle become strong
+      enough, it will evolve into a Kakuna.  When a Kakuna becomes strong enough, it will
+      evolve into a Beedrill.  So far, we have not seen a Beedrill evolve into anything 
+      stronger.
+
+      <figure>
+      <caption>The Evolution of Weedle</caption>
+      <image source="images/WeedleEvo.jpeg" width="50%">
+        <shortdescription>Evolutions of Weedle</shortdescription>
+      </image>
+      </figure>
+    </p>
+  </subsection>
+
+</section>
