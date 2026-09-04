@@ -6,7 +6,6 @@
 
   <book xml:id="my-great-book">
     <title>Gotta (Probably) Catch Them All!</title>
-    <subtitle>An example to get you started</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
